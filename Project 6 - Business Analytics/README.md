@@ -1,4 +1,4 @@
-#Optimize Marketing Expense for Yandex.Afisha
+# Optimize Marketing Expense for Yandex.Afisha
 ## Project description
 You've done beautifully in the Practicum course, and you've been offered an internship in the analytical department at Yandex.Afisha. Your first task is to help optimize marketing expenses.
 You have:
