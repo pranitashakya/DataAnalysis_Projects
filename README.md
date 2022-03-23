@@ -1,3 +1,4 @@
+
 # Data Analysis Projects
 Below are the projects completed while doing Practicum's Data Analyst training programs. (https://practicum.yandex.com/data-analyst/).
 
@@ -16,13 +17,7 @@ Below are the projects completed while doing Practicum's Data Analyst training p
 |[Analyze customer churn in gym fitness](customer_churn)| Forecast and predict customer churn in gym fitness by analyzing the factors that impact churn most, identifying any patterns with respect to interaction with customers and developing recommendations regarding the strategy for customer interaction and retention . | *pandas, numpy, matplotlib.pyplot, seaborn, scipy, math |
 |[Analyze Sales Outlets' performance](sales_performance)| Analyzing sales oulet's performance to assess its profitability and identifying outlet stores that are bringing in more revenue . | *pandas, numpy, matplotlib.pyplot, seaborn, scipy, math |
 
-
-
-
-
-
-
-
+Certificate of completion of the course : https://code.s3.yandex.net/practicum_certificate/DA/13/Pranita_Shakya.pdf
 
 
 
