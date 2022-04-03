@@ -1,15 +1,21 @@
 # Making Business Decisions Based on Data
 ## Project description
-You are an analyst at a big online store. Together with the marketing department, you've compiled a list of hypotheses that may help boost revenue.
-You need to prioritize these hypotheses, launch an A/B test, and analyze the results.
+As an analyst at a big online store, we are working together with the marketing department to compile a list of hypotheses that may help boost revenue.
+We need to prioritize these hypotheses, launch an A/B test, and analyze the results.
 
-### Description of the data
+## Table of contents
+- 1. Data Description
+- 2. Technology Used
+- 3. Steps to follow
+- 4. Goal
+
+## 1. Data Description
 Data used in the first part of the project
 /datasets/hypotheses_us.csv Download dataset
  - Hypotheses — brief descriptions of the hypotheses
  - Reach — user reach, on a scale of one to ten
  - Impact — impact on users, on a scale of one to ten
- - Confidence — confidence in the hypothesis, on a scale of one to ten
+ - Confidence — Confidence in the hypothesis, on a scale of one to ten
  - Effort — the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.
 
 Data used in the second part of the project
@@ -26,7 +32,17 @@ Data used in the second part of the project
  - group — A/B test group
  - visits — the number of visits on the date specified in the A/B test group specified
 
-## Part 1. Prioritizing Hypotheses
+## 2. Technology Used
+Python
+Jupyter Notebook
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Plotly
+
+## 3. Steps to follow
+### Step 1. Prioritizing Hypotheses
 The file hypotheses_us.csv contains nine hypotheses on boosting an online store's revenue with Reach, Impact, Confidence, and Effort specified for each.
 The task is to:
  - Apply the ICE framework to prioritize hypotheses. Sort them in descending order of priority.
@@ -34,7 +50,7 @@ The task is to:
  - Show how the prioritization of hypotheses changes when you use RICE instead of ICE. Provide an explanation for the changes.
  
 
-Part 2. A/B Test Analysis
+### Step 2. A/B Test Analysis
 You carried out an A/B test and got the results described in the files orders_us.csv and visits_us.csv.
 Task
 Analyze the A/B test:
@@ -49,18 +65,13 @@ Analyze the A/B test:
 - Find the statistical significance of the difference in average order size between the groups using the raw data. Make conclusions and conjectures.
  - Find the statistical significance of the difference in conversion between the groups using the filtered data. Make conclusions and conjectures.
 - Find the statistical significance of the difference in average order size between the groups using the filtered data. Make conclusions and conjectures.
- - Make a decision based on the test results. The possible decisions are: 
+ - Make a decision based on the test results. The possible decisions are:
   -- Stop the test, consider one of the groups the leader.
-  -- Stop the test, conclude that there is no difference between the groups. 
+  -- Stop the test, and conclude that there is no difference between the groups.
  -- Continue the test.
 
-## Here’s what project reviewers look for when assessing your project:
- - How you prepare the data for analysis
- - How you prioritize hypotheses
- - How you interpret the resulting graphs
- - How you calculate statistical significance
- - What conclusions you draw based on the A/B test results
- - Whether you follow the project structure and keep the code tidy
- - The conclusions you make
- - Whether you leave comments at each step
+## 4. Goal
+- analysis of online store data
+- prioritize hypotheses that may help boost revenue
+
 
