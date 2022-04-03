@@ -13,6 +13,7 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 
 ## 1. Data Description
 ## The dataset contains the following fields:
+
 — Name
 — Platform
 — Year_of_Release
@@ -24,6 +25,7 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 — Critic_Score (maximum of 100)
 — User_Score (maximum of 10)
 — Rating (ESRB)
+
 Data for 2016 may be incomplete.
 
 ## 2. Technology Used

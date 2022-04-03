@@ -9,13 +9,16 @@ We'll be using the same dataset for general analytics and for A/A/B analysis. In
 
 
 ## Table of contents
+
 - 1. Data Description
 - 2. Technology Used
 - 3. Steps to follow 
 - 4. Goal
 
 ## 1. Data Description
+
 Each log entry is a user action or an event.
+
  - EventName — event name
  - DeviceIDHash — unique user identifier
  - EventTimestamp — event time

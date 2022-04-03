@@ -22,9 +22,13 @@ We should:
 - 4. Goal
 
 ## 1. Data Description
+
 The dataset includes the following fields:
+
  - 'Churn' — the fact of churn for the month in question
+
  - Current dataset fields:
+
         - User data for the preceding month
         - 'gender'
         - 'Near_Location' — whether the user lives or works in the neighborhood where the gym is located
@@ -35,12 +39,14 @@ The dataset includes the following fields:
         - 'Lifetime' — the time (in months) since the customer first came to the gym
         
 - Data from the log of visits and purchases and data on current membership status
-     - 'Contract_period' — 1 month, 3 months, 6 months, or 1 year
+
+    - 'Contract_period' — 1 month, 3 months, 6 months, or 1 year
     - 'Month_to_end_contract' — the months remaining until the contract expires
     - 'Group_visits' — whether the user takes part in group sessions
     - 'Avg_class_frequency_total' — average frequency of visits per week over the customer's lifetime
     - 'Avg_class_frequency_current_month' — average frequency of visits per week over the preceding month
     - 'Avg_additional_charges_total' — the total amount of money spent on other gym services: cafe, athletic goods, cosmetics, massages, etc.
+
 File path: /datasets/gym_churn_us.csv. Download the dataset.
 
 ## 2. Technology Used
@@ -53,8 +59,11 @@ Seaborn
 Plotly
 
 ## 3. Steps to follow
+
 ### Step 1. Download the data
+
 Model Fitness provided you with CSV files containing data on churn for a given month and information on the month preceding it. 
+
 ### Step 2. Carry out exploratory data analysis (EDA)
  - Look at the dataset: does it contain any missing features? Study the mean values and standard deviation (use the describe() method).
  - Look at the mean feature values in two groups: for those who left (churn) and for those who stayed (use the groupby() method).

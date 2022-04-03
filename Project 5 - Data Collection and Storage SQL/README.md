@@ -11,7 +11,9 @@ Description of the data
 - 4. Goal
 
 ## 1. Data Description
+
 ## The dataset contains the following fields:
+
 — Name
 — Platform
 — Year_of_Release
@@ -23,6 +25,7 @@ Description of the data
 — Critic_Score (maximum of 100)
 — User_Score (maximum of 10)
 — Rating (ESRB)
+
 Data for 2016 may be incomplete.
 
 ## 2. Technology Used

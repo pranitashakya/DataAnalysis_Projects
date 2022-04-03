@@ -10,7 +10,9 @@ As an analytics guru, our partners have asked to prepare some market research. W
 - 4. Goal
 
 ## 1. Data Description
+
 - rest_data table:
+
  - object_name — establishment name
  - chain — chain establishment (TRUE/FALSE)
  - object_type — establishment type

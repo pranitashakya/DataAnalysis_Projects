@@ -10,8 +10,11 @@ We need to prioritize these hypotheses, launch an A/B test, and analyze the resu
 - 4. Goal
 
 ## 1. Data Description
+
 Data used in the first part of the project
+
 /datasets/hypotheses_us.csv Download dataset
+
  - Hypotheses — brief descriptions of the hypotheses
  - Reach — user reach, on a scale of one to ten
  - Impact — impact on users, on a scale of one to ten
@@ -19,7 +22,9 @@ Data used in the first part of the project
  - Effort — the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.
 
 Data used in the second part of the project
+
 /datasets/orders_us.csv Download dataset
+
  - transactionId — order identifier
  - visitorId — identifier of the user who placed the order
  - date — of the order
@@ -28,6 +33,7 @@ Data used in the second part of the project
  
 
 /datasets/visits_us.csv Download dataset
+
  - date — date
  - group — A/B test group
  - visits — the number of visits on the date specified in the A/B test group specified

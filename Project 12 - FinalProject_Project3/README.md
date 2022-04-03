@@ -1,5 +1,7 @@
 # Assess Sales Outlets' Performance
+
 ## Project description
+
 In this project, we are working as a junior analyst for a building-material retailer called Home World. The marketing department wants to know the performance of the sales outlets to assess their profitability and identify outlet stores that are bringing in more revenue.
 
 The datasets provided contain purchase data from the year 2016 to 2017. All of its customers have membership cards. Moreover, they can become members of the store's loyalty program for $20 per month. The program includes discounts, information on special offers, and gifts.
@@ -7,15 +9,18 @@ The datasets provided contain purchase data from the year 2016 to 2017. All of i
 # Our job is to assess customers' purchase behavior and determine if a loyalty program of $20 per month will bring in more customers or not.
 
 ## Table of contents
+
 - 1. Data Description
 - 2. Technology Used
 - 3. Steps to follow 
 - 4. Goal
 
 ## 1. Data Description
+
 There were two datasets provided retail_dataset_us and product_codes_us.
 
 retail_dataset_us.csv contains
+
  - purchaseId — customer purchase ID
  - item_ID — product ID
  - purchasedate — Customer purchase date
@@ -25,6 +30,7 @@ retail_dataset_us.csv contains
  - loyalty_program — whether the customer is a member of the loyalty program. '0' stands for false means no loyalty program and '1' stands for a true means loyalty program
 
 product_codes_us.csv contains
+
  - productID — customer product ID
  - price_per_one — product cost per one
  
