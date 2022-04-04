@@ -4,10 +4,10 @@ We’ve decided to open a small robot-run cafe in Los Angeles. The project is pr
 As an analytics guru, our partners have asked to prepare some market research. We have open-source data on restaurants in LA.
 
 ## Table of contents
-- 1. Data Description
-- 2. Technology Used
-- 3. Steps to follow 
-- 4. Goal
+- Data Description
+- Technology Used
+- Steps to follow 
+- Goal
 
 ## 1. Data Description
 

@@ -15,15 +15,25 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 ## The dataset contains the following fields:
 
 — Name
+
 — Platform
+
 — Year_of_Release
+
 — Genre
+
 — NA_sales (North American sales in USD million)
+
 — EU_sales (sales in Europe in USD million)
+
 — JP_sales (sales in Japan in USD million)
+
 — Other_sales (sales in other countries in USD million)
+
 — Critic_Score (maximum of 100)
+
 — User_Score (maximum of 10)
+
 — Rating (ESRB)
 
 Data for 2016 may be incomplete.
@@ -39,9 +49,13 @@ Plotly
 
 ## 3. Steps to follow
 #### Step 1. Open the data file and have a look at the general information.
+
 File path:
+
 /datasets/games.csv . Download dataset
+
 #### Step 2.  Prepare the data
+
  - Replace the column names (make them lowercase).
  - Convert the data to the required types.
  - Describe the columns where the data types have been changed and why.
@@ -69,12 +83,17 @@ For each region (NA, EU, JP), determine:
  - Do ESRB ratings affect sales in individual regions?
  
 #### Step 5 Test the following hypotheses:
+
  — Average user ratings of the Xbox One and PC platforms are the same.
+
  — Average user ratings for the Action and Sports genres are different.
+
 Set the alpha threshold value yourself.
 
 Explain:
+
  — How do you formulate the null and alternative hypotheses
+
  — What significance level you choose to test the hypotheses, and why
 
  #### Step 6 Write a general conclusion

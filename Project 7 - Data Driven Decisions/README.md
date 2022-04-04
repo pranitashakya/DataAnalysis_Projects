@@ -4,10 +4,10 @@ As an analyst at a big online store, we are working together with the marketing 
 We need to prioritize these hypotheses, launch an A/B test, and analyze the results.
 
 ## Table of contents
-- 1. Data Description
-- 2. Technology Used
-- 3. Steps to follow
-- 4. Goal
+- Data Description
+- Technology Used
+- Steps to follow
+- Goal
 
 ## 1. Data Description
 

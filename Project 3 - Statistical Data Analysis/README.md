@@ -18,7 +18,9 @@ After exceeding the package limits:
 1 minute: 3 cents
 1 text message: 3 cents
 1 GB of data: $10
-Ultimate
+
+### Ultimate
+
 #### Monthly charge: $70
 3000 monthly minutes, 1000 text messages, and 30 GB of data
 After exceeding the package limits:
