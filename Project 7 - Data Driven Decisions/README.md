@@ -72,9 +72,9 @@ Analyze the A/B test:
  - Find the statistical significance of the difference in conversion between the groups using the filtered data. Make conclusions and conjectures.
 - Find the statistical significance of the difference in average order size between the groups using the filtered data. Make conclusions and conjectures.
  - Make a decision based on the test results. The possible decisions are:
-  -- Stop the test, consider one of the groups the leader.
-  -- Stop the test, and conclude that there is no difference between the groups.
- -- Continue the test.
+    - Stop the test, consider one of the groups the leader.
+    - Stop the test, and conclude that there is no difference between the groups.
+    - Continue the test.
 
 ## 4. Goal
 - analysis of online store data

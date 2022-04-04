@@ -5,10 +5,10 @@ Working with a database, you'll analyze data from competitors and test a hypothe
 Description of the data
 
 ## Table of contents
-- 1. Data Description
-- 2. Technology Used
-- 3. Steps to follow
-- 4. Goal
+- Data Description
+- Technology Used
+- Steps to follow
+- Goal
 
 ## 1. Data Description
 
@@ -60,12 +60,16 @@ File path: /datasets/games.csv . Download dataset
  - Take a look at how user and professional reviews affect sales for one popular platform (you choose). Build a scatter plot and calculate the correlation between reviews and sales. Draw conclusions.
  - Keeping your conclusions in mind, compare the sales of the same games on other platforms.
  - Take a look at the general distribution of games by genre. What can we say about the most profitable genres? Can you generalize about genres with high and low sales?
+ - 
 #### Step 4 Create a user profile for each region
+
 For each region (NA, EU, JP), determine:
  - The top five platforms. Describe variations in their market shares from region to region.
  - The top five genres. Explain the difference.
  - Do ESRB ratings affect sales in individual regions?
+ - 
 #### Step 5 Test the following hypotheses:
+
  — Average user ratings of the Xbox One and PC platforms are the same.
  — Average user ratings for the Action and Sports genres are different.
 Set the alpha threshold value yourself.

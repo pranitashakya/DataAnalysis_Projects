@@ -5,10 +5,10 @@ This project is to prepare a report for a bank’s loan division. We need to fin
 The report will be considered when building a credit scoring of a potential customer. Credit scoring is used to evaluate the ability of a potential borrower to repay their loan.
 
 ## Table of contents
-- 1. Data Description
-- 2. Technology Used
-- 3. Steps to follow
-- 4. Goal
+-  Data Description
+-  Technology Used
+-  Steps to follow
+-  Goal
 
 
 ## 1. Description of the data
@@ -31,18 +31,21 @@ Jupyter Notebook
 Pandas
 
 ## 3. Steps to follow
-### Step 1. Open the data file /datasets/credit_scoring_eng.csv and have a look at the general information.
+### Step 1. Open the data file 
+/datasets/credit_scoring_eng.csv and have a look at the general information.
+
 ### Step 2. Preprocess the data:
 - Identify and fill in missing values
 - Replace the real number data type with the integer type
 - Delete duplicate data
 - Categorize the data
+
 ### Step 3 Answer these questions:
 - Is there a connection between having kids and repaying a loan on time?
 - Is there a connection between marital status and repaying a loan on time?
 - Is there a connection between income level and repaying a loan on time?
 - How do different loan purposes affect on-time loan repayment?
-### Step 4 Write an overall conclusion.
+### Step 4  Write an overall conclusion.
 
 ## 4. Goal
 - apply preprocessing on credit score data and perform demographic analysis
