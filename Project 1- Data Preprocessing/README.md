@@ -48,5 +48,5 @@ Pandas
 ### Step 4  Write an overall conclusion.
 
 ## 4. Goal
-- apply preprocessing on credit score data and perform demographic analysis
-- evaluate the ability of potential borrowers to repay their loan
+- Apply preprocessing on credit score data and perform demographic analysis.
+- Evaluate the ability of potential borrowers to repay their loan.
