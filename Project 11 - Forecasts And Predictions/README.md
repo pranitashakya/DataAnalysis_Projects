@@ -1,11 +1,13 @@
 # Forecast and Predict Customer Churn in Gym Fitness
 
 ## Project description
+
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data.
 One of the most common problems gyms and other services face is customer churn. How do you know if a customer is no longer with you? We can calculate churn based on people who get rid of their accounts or don't renew their contracts. However, sometimes it's not obvious that a client has left: they may walk out on tiptoes.
 Churn indicators vary from field to field. If a user buys from an online store rarely but regularly, you can't say they're a runaway. But if for two weeks they haven't opened a channel that's updated daily, that's a reason to worry: your follower might have gotten bored and left you.
 For a gym, it makes sense to say a customer has left if they don't come for a month. Of course, it's possible they're in Cancun and will resume their visits when they return, but's that's not a typical case. Usually, if a customer joins, comes a few times, then disappears, they're unlikely to come back.
 In order to fight churn, Model Fitness has digitized a number of its customer profiles. Our task is to analyze them and come up with a customer retention strategy.
+
 We should:
 - Learn to predict the probability of churn (for the upcoming month) for each customer
 - Draw up typical user portraits: select the most outstanding groups and describe their main features
@@ -88,10 +90,10 @@ Set aside the column with data on churn and identify object (user) clusters:
 Draw conclusions and formulate recommendations regarding the strategy for customer interaction and retention.
 
 ## 4. Goal
-- analysis data on gym fitness
-- forecast and predict customer churn in gym fitness by analyzing the factors that impact churn most
-- identify any patterns with respect to interaction with customers
-- recommend a strategy for customer interaction and retention
+- Analysis data on gym fitness.
+- Forecast and predict customer churn in gym fitness by analyzing the factors   that impact churn most.
+- Identify any patterns with respect to interaction with customers.
+- Recommend a strategy for customer interaction and retention.
 
 
 

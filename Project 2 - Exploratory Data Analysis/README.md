@@ -1,6 +1,6 @@
 # Research on Car Sales Advertisements
 ## Project description
-You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
+The Crankshaft List company publishes hundreds of free advertisements for vehicles daily on its web site.As an analyst, we want to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 ## Table of contents
 -  Data Description
@@ -64,6 +64,6 @@ Plotly
 ##### Step 5  Write an overall conclusion
 
 ## 4. Goal
-- apply exploratory data analysis
-- evaluate factors( age, mileage, condition, transmission, color) that impact the price of a vehicle most
+- Apply exploratory data analysis.
+- Evaluate factors( age, mileage, condition, transmission, color) that impact the price of a vehicle most
 

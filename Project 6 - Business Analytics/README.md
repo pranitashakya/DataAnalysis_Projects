@@ -75,7 +75,7 @@ Explain:
 - What significance level do you choose to test the hypotheses, and why
 #### Step 6 Write a general conclusion
 # 4. Goal
-- analysis of server logs data
-- calculate business metrics on products and marketing
-- advise marketing experts on how much to invest and where
+- Analysis of server logs data.
+- Calculate business metrics on products and marketing.
+- Advise marketing experts on how much to invest and where.
 

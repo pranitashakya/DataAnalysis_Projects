@@ -1,6 +1,7 @@
 # Assess Sales Outlets' Performance
 
 ## Project description
+
 In this project, we are working as a junior analyst for a building-material retailer called Home World. The marketing department wants to know the performance of the sales outlets to assess their profitability and identify outlet stores that are bringing in more revenue.
 
 The datasets provided contain purchase data from the year 2016 to 2017. All of its customers have membership cards. Moreover, they can become members of the store's loyalty program for $20 per month. The program includes discounts, information on special offers, and gifts.
@@ -54,7 +55,7 @@ We will view the data in more detail to convert them to the required types, repl
 - How effective is a loyalty program? Do customer with or without loyalty program purchases more or less?
 
 ### Step 4: Test the hypotheses
-- Average purchases of customers with loyalty programs are the same as of customers without a loyalty program.
+- Average purchases of customers with loyalty programs are the same as of   customers without a loyalty program.
 
 ### Step 5: Prepare a presentation
 
@@ -62,8 +63,8 @@ We will view the data in more detail to convert them to the required types, repl
 Draw conclusions and formulate recommendations regarding the strategy for customer interaction and retention.
 
 ## 4. Goal
-- analysis data on sales outlets' data
-- identify customers’ purchase behavior
-- make decisions based on sales performance
+- Analysis data on sales outlets' data.
+- Identify customers’ purchase behavior.
+- Make decisions based on sales performance.
 
 

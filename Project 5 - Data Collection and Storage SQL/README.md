@@ -1,7 +1,7 @@
 # Analyze the passenger preferences and the impact of external factors on rides
 ## Project description
-You work as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. Your task is to find patterns in the available information. Your job is to understand passenger preferences and the impact of external factors on rides.
-Working with a database, you'll analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
+A new ride-sharing company called Zuber is launching in Chicago. As a newly hired analyst,our job is to find patterns in the available information, understand passenger preferences and the impact of external factors on rides.
+Working with a database, we'll analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 Description of the data
 
 ## Table of contents
@@ -78,7 +78,7 @@ Explain:
  — What significance level you choose to test the hypotheses, and why
  #### Step 6 Write a general conclusion
 # 4. Goal
- - analysis of online video game data
- - identify patterns that determine whether a game succeeds or not
- - spot potential big winners and plan advertising campaigns
+ - Analysis of online video game data.
+ - Identify patterns that determine whether a game succeeds or not.
+ - Spot potential big winners and plan advertising campaigns.
 

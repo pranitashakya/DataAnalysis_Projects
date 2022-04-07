@@ -1,6 +1,7 @@
 # Investigate User Behavior for a company's application
 
 ## Project description
+
 As an analyst, we need to investigate user behavior for a company's application that sells food products.
 First study the sales funnel. Find out how users reach the purchase stage. How many users actually make it to this stage? How many get stuck at previous stages? Which stages in particular?
 Then look at the results of an A/A/B test. (Read on for more information about A/A/B testing.) The designers would like to change the fonts for the entire app, but the managers are afraid the users might find the new design intimidating. They decide to make a decision based on the results of an A/A/B test.
@@ -67,8 +68,8 @@ Make sure you have users from all three experimental groups.
 - What significance level have you set to test the statistical hypotheses mentioned above? Calculate how many statistical hypothesis tests you carried out. With a statistical significance level of 0.1, one in 10 results could be false. What should the significance level be? If you want to change it, run through the previous steps again and check your conclusions.
 
 ## 4. Goal
-- analysis data on restaurants in LA
-- investigate user behavior for the company's application
+- Analysis data on restaurants in LA.
+- Investigate user behavior for the company's application.
 
 
 

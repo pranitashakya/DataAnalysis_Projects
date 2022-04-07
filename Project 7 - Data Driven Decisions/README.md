@@ -77,7 +77,7 @@ Analyze the A/B test:
     - Continue the test.
 
 ## 4. Goal
-- analysis of online store data
-- prioritize hypotheses that may help boost revenue
+- Analysis of online store data.
+- Prioritize hypotheses that may help boost revenue.
 
 

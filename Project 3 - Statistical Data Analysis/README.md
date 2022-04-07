@@ -1,7 +1,7 @@
 # Analyze prepaid call plans for Megaline
 ## Project description
 There's a telecom company called Megaline that offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.
-As an analyst of that company, you are going to carry out a preliminary analysis of the plans based on a relatively small client selection. You'll have the data on 500 Megaline clients: who the clients are, where they're from, which plan they use, and the number of calls they made and text messages they sent in 2018. Your job is to analyze clients' behavior and determine which prepaid plan brings in more revenue.
+As an analyst of that company, we want to carry out a preliminary analysis of the plans based on a relatively small client selection. We have the data on 500 Megaline clients: who the clients are, where they're from, which plan they use, and the number of calls they made and text messages they sent in 2018. Our job is to analyze clients' behavior and determine which prepaid plan brings in more revenue.
 
 ## Table of contents
 - Data Description
@@ -120,7 +120,7 @@ The plans table (data on the plans):
 - usd_per_gb — price per extra gigabyte of data after exceeding the package limits (1 GB = 1024 megabytes)
 
 ## 4. Goal
-- apply exploratory and statistical analysis to real telecom data
-- analyze clients' behavior to determine which prepaid plan brings in more revenue
+- Apply exploratory and statistical analysis to real telecom data.
+- Analyze clients' behavior to determine which prepaid plan brings in more revenue
 
 

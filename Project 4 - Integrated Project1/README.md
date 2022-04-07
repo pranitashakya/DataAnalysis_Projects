@@ -1,7 +1,7 @@
 # Analyze Online Video Games sell
 ## Project description
-You work for the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. You need to identify patterns that determine whether a game succeeds or not. This will allow you to spot potential big winners and plan advertising campaigns.
-In front of you is data going back to 2016. Let’s imagine that it’s December 2016 and you’re planning a campaign for 2017.
+There is an online store called Ice that sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. As an analyst of that store, we need to identify patterns that determine whether a game succeeds or not. This will allow us to spot potential big winners and plan advertising campaigns.
+We have data from 2016. Let’s imagine that it’s December 2016 and we're planning a campaign for 2017.
 (The important thing is to get experience working with data. It doesn't really matter whether you're forecasting 2017 sales based on data from 2016 or 2017 sales based on data from 2016.)
 The dataset contains the abbreviation ESRB. The Entertainment Software Rating Board evaluates a game's content and assigns an age rating such as Teen or Mature.
 
@@ -98,7 +98,7 @@ Explain:
 
  #### Step 6 Write a general conclusion
  # 4. Goal
- - analysis of online video game data
- - identify patterns that determine whether a game succeeds or not
- -  spot potential big winners and plan advertising campaigns
+ - Analysis of online video game data.
+ - Identify patterns that determine whether a game succeeds or not.
+ - Spot potential big winners and plan advertising campaigns.
 

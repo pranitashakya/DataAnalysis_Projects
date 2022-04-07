@@ -49,7 +49,7 @@ For streets with a lot of restaurants, look at the distribution of the number of
 Make a presentation of your research to share with investors. You can use any tool you’d like to create it, but you must convert your presentation to PDF format for assessment. Include a link to the presentation in a markdown cell in the following format:
 Presentation: <link to cloud storage> 
 ## 4. Goal
-- utilize open-source data on restaurants in LA
-- analyze on food establishments to recommend on restaurant type and the number of seats and the possibility of developing a chain
+- Utilize open-source data on restaurants in LA.
+- Analyze on food establishments to recommend on restaurant type and the   number of seats and the possibility of developing a chain.
 
 
